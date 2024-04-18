@@ -1,5 +1,8 @@
 
-GetRandomUser App
+# GetRandomUser App
+
+
+Hello! With this application, I learned to retrieve user data from an API address by clicking a button. I also added the option to add a user to a table created on the screen by clicking on the add user button. A simple but fun application :)
 
 https://random-user-app-akt.netlify.app/
 
@@ -33,7 +36,7 @@ SOLUTION
 
 ## Expected Outcome
 
-![Project Snapshot](./random-user-app.gif)
+![GetRandomUser](https://github.com/KadirTarti/KadirTarti/assets/150926891/8ff9adbb-ac0b-4889-86be-6fe8db332e7c)
 
 ## Objective
 
@@ -41,12 +44,10 @@ Build a Random User App using ReactJS.
 
 ### At the end of the project, following topics are to be covered;
 
+- Love 
 - HTML
-
 - CSS
-
 - JS
-
 - ReactJS
 
 ### At the end of the project, students will be able to;
