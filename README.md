@@ -10,16 +10,16 @@ https://random-user-app-akt.netlify.app/
 
 Project aims to create a Random User App.
 
-## Outcome 🎦
+## Outcome 🎥
 
 ![GetRandomUser](https://github.com/KadirTarti/KadirTarti/assets/150926891/8ff9adbb-ac0b-4889-86be-6fe8db332e7c)
 
 
-## Project Planning & Management
+## Project Planning & Management 🗺️
 
 **Epic User Story:** Retrieve and Store User Information 🎖️
 
-**User Stories:**
+## **User Stories:**
 
 1️-) **Retrieve User Information:**
 -  (Fetch User Information via Axios) - Send a GET request to the chosen free and open source API using Axios. - Handle the response to extract usable user information. - Display the retrieved user information to the user.
@@ -30,7 +30,7 @@ Project aims to create a Random User App.
 -  (Edit User Information) - Develop functionality to allow users to edit stored user data. - Design an intuitive interface for users to make edits to the displayed user information. - Update the database with the edited user data.
 -  (Delete User Information) - Enable users to delete stored user data. - Implement a confirmation mechanism to prevent accidental deletions. - Remove the selected user data from the database upon user confirmation.
 
-## Project Skeleton
+## Project Skeleton 👷
 
 ```
 Get Random User App(folder)
@@ -57,23 +57,17 @@ Get Random User App(folder)
 ```
 
 
-## Objective
+## Objective 🔍
 
 Build a Random User App using ReactJS.
 
 ### At the end of the project, following topics are to be covered;
 
-- HTML
-- CSS
-- JS 
-- ReactJS with Hooks
-- Axios (API)
+⭐ improve coding skills within HTML & CSS & JS & ReactJS with Hooks & Axios (API).
 
-### At the end of the project, students will be able to;
+⭐ Learning to fetch data from an api and add user to display
 
-- Improve coding skills within HTML & CSS & JS & ReactJS.
-
-- Use git commands (push, pull, commit, add etc.) and Github as Version Control System.
+⭐ use git commands (push, pull, commit, add etc.) and Github as Version Control System. 
 
 ## Additional Data 📦
 
