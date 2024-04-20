@@ -1,14 +1,11 @@
 
 # GetRandomUser App
 
-
-Hello! With this application, I learned to retrieve user data from an API address by clicking a button. I also added the option to add a user to a table created on the screen by clicking on the add user button. A simple but fun application :)
-
 https://random-user-app-akt.netlify.app/
 
 ## Description 🟢
 
-Project aims to create a Random User App.
+Hello! With this application, I learned to retrieve user data from an API address by clicking a button. I also added the option to add a user to a table created on the screen by clicking on the add user button. A simple but fun application :)
 
 ## Outcome 🎥
 
