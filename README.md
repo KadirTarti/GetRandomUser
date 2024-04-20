@@ -6,7 +6,7 @@ Hello! With this application, I learned to retrieve user data from an API addres
 
 https://random-user-app-akt.netlify.app/
 
-## Description
+## Description 🟢
 
 Project aims to create a Random User App.
 
