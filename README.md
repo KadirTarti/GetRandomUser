@@ -11,22 +11,6 @@ Hello! With this application, I learned to retrieve user data from an API addres
 
 ![GetRandomUser](https://github.com/KadirTarti/KadirTarti/assets/150926891/8ff9adbb-ac0b-4889-86be-6fe8db332e7c)
 
-
-## Project Planning & Management 🗺️
-
-**Epic User Story:** Retrieve and Store User Information 🎖️
-
-## **User Stories:**
-
-1️-) **Retrieve User Information:**
--  (Fetch User Information via Axios) - Send a GET request to the chosen free and open source API using Axios. - Handle the response to extract usable user information. - Display the retrieved user information to the user.
--  (Manually Input User Information) - Create a user interface (form or input fields) for manual user data input. - Implement validation to ensure correctness and completeness of the entered information. - Save the manually inputted user data for storage.
-
-2-) **Store User Information**
--  (Display Stored User Information) - Design a user-friendly table or list view to display both fetched and manually inputted user data. - Organize the displayed information in a clear and understandable format.
--  (Edit User Information) - Develop functionality to allow users to edit stored user data. - Design an intuitive interface for users to make edits to the displayed user information. - Update the database with the edited user data.
--  (Delete User Information) - Enable users to delete stored user data. - Implement a confirmation mechanism to prevent accidental deletions. - Remove the selected user data from the database upon user confirmation.
-
 ## Project Skeleton 👷
 
 ```
@@ -52,6 +36,23 @@ Get Random User App(folder)
 ├── package.json
 └── README.md
 ```
+
+
+
+## Project Planning & Management 🗺️
+
+**Epic User Story:** Retrieve and Store User Information 🎖️
+
+## **User Stories:**
+
+1️-) **Retrieve User Information:**
+-  (Fetch User Information via Axios) - Send a GET request to the chosen free and open source API using Axios. - Handle the response to extract usable user information. - Display the retrieved user information to the user.
+-  (Manually Input User Information) - Create a user interface (form or input fields) for manual user data input. - Implement validation to ensure correctness and completeness of the entered information. - Save the manually inputted user data for storage.
+
+2-) **Store User Information**
+-  (Display Stored User Information) - Design a user-friendly table or list view to display both fetched and manually inputted user data. - Organize the displayed information in a clear and understandable format.
+-  (Edit User Information) - Develop functionality to allow users to edit stored user data. - Design an intuitive interface for users to make edits to the displayed user information. - Update the database with the edited user data.
+-  (Delete User Information) - Enable users to delete stored user data. - Implement a confirmation mechanism to prevent accidental deletions. - Remove the selected user data from the database upon user confirmation.
 
 
 ## Objective 🔍
