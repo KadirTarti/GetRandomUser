@@ -41,7 +41,7 @@ Get Random User App(folder)
 
 ## Project Planning & Management 🗺️
 
-**Epic User Story:** Retrieve and Store User Information 🎖️
+**Epic User Story:** Retrieve and Store User Information
 
 ## **User Stories:**
 
@@ -78,4 +78,4 @@ All contributions from different perspectives greatly enrich my projects! Whethe
 
 - You can add additional functionalities and design to your app.
 
-**<p align="center">&#9786; Happy Coding &#9997;</p>**
+**<p align="center"> 💻 Happy Work 💻  </p>**
