@@ -59,7 +59,7 @@ Get Random User App(folder)
 
 Build a Random User App using ReactJS.
 
-### At the end of the project, following topics are to be covered;
+### This project helped me develop the following skills:
 
 ⭐ improve coding skills within HTML & CSS & JS & ReactJS with Hooks & Axios (API).
 
@@ -78,4 +78,4 @@ All contributions from different perspectives greatly enrich my projects! Whethe
 
 - You can add additional functionalities and design to your app.
 
-**<p align="center"> 💻 Happy Work 💻  </p>**
+**<p align="center"> 💻 *Always improve yourself* 💻  </p>**
